@@ -10,6 +10,7 @@
 
 <body>
   <h1>Error 404</h1>
+  <p>Désoler cette page n'éxiste pas</p>
 </body>
 
 </html>

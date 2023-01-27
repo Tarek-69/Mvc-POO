@@ -9,7 +9,14 @@
 </head>
 
 <body>
-  <h1>Series</h1>
+  <h1>Séries</h1>
+  <nav>
+    <ul>
+      <li><img src="/public/assets/images/The Last Of Us.jpeg" alt="Last of Us"> <span>Last of Us</span></li>
+      <li><img src="/public/assets/images/Kaleidoscope.jpeg" alt="Kaleidoscope"><span>Kaleidoscope</span></li>
+      <li><img src="/public/assets/images/The Witcher.jpeg" alt="The Witcher"><span> Witcher</span></li>
+    </ul>
+  </nav>
 </body>
 
 </html>

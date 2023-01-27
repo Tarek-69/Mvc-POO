@@ -42,8 +42,6 @@ switch ($_SERVER["REQUEST_URI"]) {
 }
 
 
-
-
 if (isset($_GET["page"]) && !empty($_GET["page"])) {
 
 

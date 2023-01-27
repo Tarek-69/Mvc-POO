@@ -1,28 +1,30 @@
-<nav>
-  <ul>
-    <li>
-      <a href="/?page=home">Home</a>
+<div class="topnav">
+  <nav>
+    <ul>
+      <li>
+        <a href="/?page=home">Home</a>
 
-    </li>
+      </li>
 
-    <li>
+      <li>
 
-      <a href="/?page=movies">movies</a>
+        <a href="/?page=movies">Films</a>
 
-    </li>
+      </li>
 
-    <li>
-      <a href="/?page=series">Séries</a>
-    </li>
+      <li>
+        <a href="/?page=series">Séries</a>
+      </li>
 
-    <li>
+      <li>
 
-      <a href="/?page=actors">Actors</a>
+        <a href="/?page=actors">Acteurs</a>
 
-    </li>
+      </li>
 
-    <li>
-      <a href="/?page=director">Director</a>
-    </li>
-  </ul>
-</nav>
+      <li>
+        <a href="/?page=director">Directeur</a>
+      </li>
+    </ul>
+  </nav>
+</div>
