@@ -1,4 +1,4 @@
-img{
+img {
   width: 100%;
 }
 
@@ -6,19 +6,20 @@ nav ul li {
   max-width: 350px;
 }
 
- ul {
+ul {
   list-style: none;
- }
+}
 
- nav ul li span{
+nav ul li span {
   display: block;
   padding: 8px;
-  border: 2px solid black;
+  border: 2px solid rgb(221, 221, 224);
+  background-color: rgb(224, 219, 219);
   margin-bottom: 10px;
- }
- .topnav {
+}
+.topnav {
   overflow: hidden;
-  background-color: #f1f1f1;
+  background-color: #ebe0e0;
 }
 
 .topnav a {
@@ -33,7 +34,7 @@ nav ul li {
 }
 
 .topnav a:hover {
-  border-bottom: 3px solid red;
+  border-bottom: 3px solid rgb(255, 138, 60);
 }
 
 .topnav a.active {
